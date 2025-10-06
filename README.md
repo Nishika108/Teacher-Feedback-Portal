@@ -42,3 +42,4 @@ A comprehensive web-based platform that allows students to rate teachers and pro
 - **Mongoose**: MongoDB object modeling
 - **JWT**: JSON Web Tokens for authentication
 - **bcryptjs**: Password hashing
+  
